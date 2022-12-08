@@ -1,0 +1,16 @@
+.idea/
+.nyc_output_feature/
+.nyc_output_unit/
+.nyc_output/
+@rerun.txt
+coverage/
+lib/
+node_modules
+tmp/
+reports/*.html
+reports/*.ndjson
+reports/*.txt
+yarn-error.log
+.vscode
+.DS_Store
+src/version.ts
